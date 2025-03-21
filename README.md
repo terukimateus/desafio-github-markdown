@@ -14,4 +14,4 @@ Iniciei na carreira de programação no fim de 2022, com projetos e estudos por 
 <a href="https://instagram.com/terukimateus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terukimateus" height="30" width="40" /></a>
 </p>
 
-![terukimateus's Stats](https://github-readme-stats.vercel.app/api?username=terukimateus&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![terukimateus's Stats](https://github-readme-stats.vercel.app/api?username=terukimateus&theme=swift&show_icons=true&hide_border=true&count_private=true)
